@@ -1,0 +1,35 @@
+{
+    "FunctionName": "Calc5",
+    "FunctionArn": "arn:aws:lambda:eu-north-1:395271539316:function:Calc5",
+    "Runtime": "provided.al2",
+    "Role": "arn:aws:iam::395271539316:role/calc-lambda-role",
+    "Handler": "lambda.run",
+    "CodeSize": 24101488,
+    "Description": "",
+    "Timeout": 3,
+    "MemorySize": 512,
+    "LastModified": "2023-10-16T08:02:22.954+0000",
+    "CodeSha256": "CwyXRiCCjzyvGK3oqcXwfuhRSpkKgCQZSdBbi82xQVE=",
+    "Version": "$LATEST",
+    "TracingConfig": {
+        "Mode": "PassThrough"
+    },
+    "RevisionId": "253ea0e0-600c-4fb4-a890-19e6788dbdec",
+    "State": "Pending",
+    "StateReason": "The function is being created.",
+    "StateReasonCode": "Creating",
+    "PackageType": "Zip",
+    "Architectures": [
+        "arm64"
+    ],
+    "EphemeralStorage": {
+        "Size": 512
+    },
+    "SnapStart": {
+        "ApplyOn": "None",
+        "OptimizationStatus": "Off"
+    },
+    "RuntimeVersionConfig": {
+        "RuntimeVersionArn": "arn:aws:lambda:eu-north-1::runtime:dc61219d57c2e2ed51c3da3668f22f25708b1ae13731ed7bb822b17f39056886"
+    }
+}

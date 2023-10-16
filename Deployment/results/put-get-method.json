@@ -1,0 +1,11 @@
+{
+    "httpMethod": "GET",
+    "authorizationType": "NONE",
+    "apiKeyRequired": false,
+    "requestValidatorId": "u8f6c7",
+    "requestParameters": {
+        "method.request.querystring.operand1": true,
+        "method.request.querystring.operand2": true,
+        "method.request.querystring.operator": true
+    }
+}

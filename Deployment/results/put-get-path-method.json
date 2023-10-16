@@ -1,0 +1,10 @@
+{
+    "httpMethod": "GET",
+    "authorizationType": "NONE",
+    "apiKeyRequired": false,
+    "requestParameters": {
+        "method.request.path.operand1": true,
+        "method.request.path.operand2": true,
+        "method.request.path.operator": true
+    }
+}

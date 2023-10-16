@@ -1,0 +1,6 @@
+{
+    "id": "zd5fzg",
+    "name": "Input",
+    "schema": "{\"type\": \"object\", \"properties\": { \"a\" : { \"type\": \"number\" },  \"b\" : { \"type\": \"number\" }, \"op\" : { \"type\": \"string\" }}, \"title\": \"Input\"}",
+    "contentType": "application/json"
+}

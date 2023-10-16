@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "name": "Debug calc5",
+            "program": "${workspaceFolder:calc5}/.build/debug/calc5",
+            "args": [],
+            "cwd": "${workspaceFolder:calc5}",
+            "preLaunchTask": "swift: Build Debug calc5"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "name": "Release calc5",
+            "program": "${workspaceFolder:calc5}/.build/release/calc5",
+            "args": [],
+            "cwd": "${workspaceFolder:calc5}",
+            "preLaunchTask": "swift: Build Release calc5"
+        }
+    ]
+}

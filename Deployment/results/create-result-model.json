@@ -1,0 +1,6 @@
+{
+    "id": "dkj343",
+    "name": "Result",
+    "schema": "{ \"type\": \"object\", \"properties\": { \"input\":{ \"$ref\": \"https://apigateway.amazonaws.com/restapis/xfcgkgphr9/models/Input\"}, \"output\":{\"$ref\": \"https://apigateway.amazonaws.com/restapis/xfcgkgphr9/models/Output\"}}, \"title\": \"Output\"}",
+    "contentType": "application/json"
+}

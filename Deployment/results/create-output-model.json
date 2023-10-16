@@ -1,0 +1,6 @@
+{
+    "id": "rv5x4l",
+    "name": "Output",
+    "schema": "{ \"type\": \"object\", \"properties\": { \"c\" : { \"type\": \"number\"}}, \"title\":\"Output\"}",
+    "contentType": "application/json"
+}
