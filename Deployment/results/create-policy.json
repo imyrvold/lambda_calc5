@@ -1,14 +1,14 @@
 {
     "Policy": {
         "PolicyName": "lambda_execute",
-        "PolicyId": "ANPAVYCAFBJ2K7DSWIS7P",
+        "PolicyId": "ANPAVYCAFBJ2D455VF7J3",
         "Arn": "arn:aws:iam::395271539316:policy/lambda_execute",
         "Path": "/",
         "DefaultVersionId": "v1",
         "AttachmentCount": 0,
         "PermissionsBoundaryUsageCount": 0,
         "IsAttachable": true,
-        "CreateDate": "2023-10-16T08:01:53+00:00",
-        "UpdateDate": "2023-10-16T08:01:53+00:00"
+        "CreateDate": "2023-10-16T08:18:55+00:00",
+        "UpdateDate": "2023-10-16T08:18:55+00:00"
     }
 }

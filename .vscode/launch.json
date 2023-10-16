@@ -23,6 +23,30 @@
             "args": [],
             "cwd": "${workspaceFolder:calc5}",
             "preLaunchTask": "swift: Build Release calc5"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "name": "Debug calc",
+            "program": "${workspaceFolder:calc5}/.build/debug/calc",
+            "args": [],
+            "cwd": "${workspaceFolder:calc5}",
+            "preLaunchTask": "swift: Build Debug calc"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "name": "Release calc",
+            "program": "${workspaceFolder:calc5}/.build/release/calc",
+            "args": [],
+            "cwd": "${workspaceFolder:calc5}",
+            "preLaunchTask": "swift: Build Release calc"
         }
     ]
 }

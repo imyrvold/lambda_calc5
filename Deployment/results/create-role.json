@@ -2,9 +2,9 @@
     "Role": {
         "Path": "/",
         "RoleName": "calc-lambda-role",
-        "RoleId": "AROAVYCAFBJ2A4HXN3LDP",
+        "RoleId": "AROAVYCAFBJ2AJSPT5COG",
         "Arn": "arn:aws:iam::395271539316:role/calc-lambda-role",
-        "CreateDate": "2023-10-16T08:02:01+00:00",
+        "CreateDate": "2023-10-16T08:19:04+00:00",
         "AssumeRolePolicyDocument": {
             "Version": "2012-10-17",
             "Statement": [

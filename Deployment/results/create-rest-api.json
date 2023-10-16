@@ -1,7 +1,7 @@
 {
-    "id": "xfcgkgphr9",
+    "id": "4wyeza5w09",
     "name": "LambdaCalc",
-    "createdDate": "2023-10-16T10:02:25+02:00",
+    "createdDate": "2023-10-16T10:19:28+02:00",
     "apiKeySource": "HEADER",
     "endpointConfiguration": {
         "types": [
@@ -9,5 +9,5 @@
         ]
     },
     "disableExecuteApiEndpoint": false,
-    "rootResourceId": "unz6fqssa9"
+    "rootResourceId": "aw6hwp3pef"
 }

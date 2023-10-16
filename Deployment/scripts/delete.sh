@@ -2,7 +2,7 @@
 
 ROLE_NAME=calc-lambda-role
 POLICY_NAME=lambda_execute
-FUNCTION_NAME=Calc5
+FUNCTION_NAME=Calc
 API_NAME=LambdaCalc
 
 POLICY_ARN=$(aws iam list-policies --query "Policies[?PolicyName=='$POLICY_NAME'].Arn" --output text --region $REGION)

@@ -1,6 +1,6 @@
 {
-    "id": "v4hoi7",
-    "parentId": "ci2rq3",
+    "id": "tjyuxu",
+    "parentId": "fuz7ue",
     "pathPart": "{operator}",
-    "path": "/calc5/{operand1}/{operand2}/{operator}"
+    "path": "/calc/{operand1}/{operand2}/{operator}"
 }

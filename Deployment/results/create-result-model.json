@@ -1,6 +1,6 @@
 {
-    "id": "dkj343",
+    "id": "gadsp7",
     "name": "Result",
-    "schema": "{ \"type\": \"object\", \"properties\": { \"input\":{ \"$ref\": \"https://apigateway.amazonaws.com/restapis/xfcgkgphr9/models/Input\"}, \"output\":{\"$ref\": \"https://apigateway.amazonaws.com/restapis/xfcgkgphr9/models/Output\"}}, \"title\": \"Output\"}",
+    "schema": "{ \"type\": \"object\", \"properties\": { \"input\":{ \"$ref\": \"https://apigateway.amazonaws.com/restapis/4wyeza5w09/models/Input\"}, \"output\":{\"$ref\": \"https://apigateway.amazonaws.com/restapis/4wyeza5w09/models/Output\"}}, \"title\": \"Output\"}",
     "contentType": "application/json"
 }

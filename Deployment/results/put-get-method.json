@@ -2,7 +2,7 @@
     "httpMethod": "GET",
     "authorizationType": "NONE",
     "apiKeyRequired": false,
-    "requestValidatorId": "u8f6c7",
+    "requestValidatorId": "bmyka2",
     "requestParameters": {
         "method.request.querystring.operand1": true,
         "method.request.querystring.operand2": true,
