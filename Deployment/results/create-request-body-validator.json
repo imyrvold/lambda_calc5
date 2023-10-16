@@ -1,6 +1,0 @@
-{
-    "id": "doivkx",
-    "name": "validate-request-body",
-    "validateRequestBody": true,
-    "validateRequestParameters": false
-}

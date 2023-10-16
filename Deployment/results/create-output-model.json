@@ -1,6 +1,0 @@
-{
-    "id": "01aj66",
-    "name": "Output",
-    "schema": "{ \"type\": \"object\", \"properties\": { \"c\" : { \"type\": \"number\"}}, \"title\":\"Output\"}",
-    "contentType": "application/json"
-}
